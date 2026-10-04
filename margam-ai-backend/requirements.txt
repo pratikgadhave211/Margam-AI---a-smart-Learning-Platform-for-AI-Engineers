@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+docker
+langchain
+langgraph
+langchain-openai
+pyflakes
+pyright
